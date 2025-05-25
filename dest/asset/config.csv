@@ -1,0 +1,2 @@
+﻿key,value,type,remarks
+ROTATE_SPEED,6.283185307,float,回転速度（ラジアン/秒）
